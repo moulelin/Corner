@@ -1,0 +1,85 @@
+corners - precision: 0.779 recall: 0.803 f_score: 0.791
+edges - precision: 0.572 recall: 0.604 f_score: 0.588
+loops - precision: 0.493 recall: 0.566 f_score: 0.527
+loops_v2 - precision: 0.541 recall: 0.588 f_score: 0.564
+checkpoint_14_0.916 threshold:0.5
+corners - precision: 0.779 recall: 0.803 f_score: 0.790
+edges - precision: 0.535 recall: 0.613 f_score: 0.571
+loops - precision: 0.320 recall: 0.557 f_score: 0.407
+loops_v2 - precision: 0.387 recall: 0.573 f_score: 0.462
+checkpoint_14_0.916 threshold:0.1
+corners - precision: 0.779 recall: 0.803 f_score: 0.791
+edges - precision: 0.545 recall: 0.611 f_score: 0.576
+loops - precision: 0.359 recall: 0.562 f_score: 0.438
+loops_v2 - precision: 0.424 recall: 0.584 f_score: 0.491
+checkpoint_14_0.916 threshold:0.15
+corners - precision: 0.779 recall: 0.803 f_score: 0.791
+edges - precision: 0.553 recall: 0.610 f_score: 0.580
+loops - precision: 0.393 recall: 0.565 f_score: 0.464
+loops_v2 - precision: 0.450 recall: 0.584 f_score: 0.508
+checkpoint_14_0.916 threshold:0.2
+corners - precision: 0.779 recall: 0.803 f_score: 0.791
+edges - precision: 0.557 recall: 0.608 f_score: 0.582
+loops - precision: 0.413 recall: 0.564 f_score: 0.477
+loops_v2 - precision: 0.468 recall: 0.585 f_score: 0.520
+checkpoint_14_0.916 threshold:0.25
+corners - precision: 0.779 recall: 0.803 f_score: 0.791
+edges - precision: 0.561 recall: 0.608 f_score: 0.583
+loops - precision: 0.428 recall: 0.564 f_score: 0.487
+loops_v2 - precision: 0.488 recall: 0.590 f_score: 0.534
+checkpoint_14_0.916 threshold:0.3
+corners - precision: 0.779 recall: 0.803 f_score: 0.791
+edges - precision: 0.565 recall: 0.607 f_score: 0.585
+loops - precision: 0.449 recall: 0.567 f_score: 0.501
+loops_v2 - precision: 0.504 recall: 0.591 f_score: 0.544
+checkpoint_14_0.916 threshold:0.35
+corners - precision: 0.779 recall: 0.803 f_score: 0.791
+edges - precision: 0.567 recall: 0.606 f_score: 0.586
+loops - precision: 0.462 recall: 0.565 f_score: 0.508
+loops_v2 - precision: 0.514 recall: 0.590 f_score: 0.549
+checkpoint_14_0.916 threshold:0.4
+corners - precision: 0.779 recall: 0.803 f_score: 0.791
+edges - precision: 0.569 recall: 0.605 f_score: 0.587
+loops - precision: 0.477 recall: 0.565 f_score: 0.518
+loops_v2 - precision: 0.526 recall: 0.589 f_score: 0.556
+checkpoint_14_0.916 threshold:0.45
+corners - precision: 0.779 recall: 0.803 f_score: 0.791
+edges - precision: 0.572 recall: 0.604 f_score: 0.588
+loops - precision: 0.493 recall: 0.566 f_score: 0.527
+loops_v2 - precision: 0.541 recall: 0.588 f_score: 0.564
+checkpoint_14_0.916 threshold:0.5
+corners - precision: 0.779 recall: 0.803 f_score: 0.791
+edges - precision: 0.574 recall: 0.604 f_score: 0.589
+loops - precision: 0.500 recall: 0.561 f_score: 0.529
+loops_v2 - precision: 0.548 recall: 0.583 f_score: 0.565
+checkpoint_14_0.916 threshold:0.55
+corners - precision: 0.779 recall: 0.803 f_score: 0.791
+edges - precision: 0.576 recall: 0.603 f_score: 0.589
+loops - precision: 0.514 recall: 0.560 f_score: 0.536
+loops_v2 - precision: 0.559 recall: 0.583 f_score: 0.571
+checkpoint_14_0.916 threshold:0.6
+corners - precision: 0.779 recall: 0.803 f_score: 0.791
+edges - precision: 0.579 recall: 0.602 f_score: 0.590
+loops - precision: 0.528 recall: 0.556 f_score: 0.542
+loops_v2 - precision: 0.573 recall: 0.580 f_score: 0.577
+checkpoint_14_0.916 threshold:0.65
+corners - precision: 0.780 recall: 0.803 f_score: 0.791
+edges - precision: 0.581 recall: 0.602 f_score: 0.591
+loops - precision: 0.544 recall: 0.555 f_score: 0.550
+loops_v2 - precision: 0.586 recall: 0.578 f_score: 0.582
+checkpoint_14_0.916 threshold:0.7
+corners - precision: 0.780 recall: 0.803 f_score: 0.791
+edges - precision: 0.588 recall: 0.600 f_score: 0.594
+loops - precision: 0.565 recall: 0.538 f_score: 0.551
+loops_v2 - precision: 0.611 recall: 0.563 f_score: 0.586
+checkpoint_14_0.916 threshold:0.8
+corners - precision: 0.781 recall: 0.802 f_score: 0.791
+edges - precision: 0.574 recall: 0.603 f_score: 0.588
+loops - precision: 0.495 recall: 0.564 f_score: 0.527
+loops_v2 - precision: 0.543 recall: 0.586 f_score: 0.563
+checkpoint_14_0.916 threshold:0.5
+corners - precision: 0.779 recall: 0.803 f_score: 0.791
+edges - precision: 0.572 recall: 0.604 f_score: 0.588
+loops - precision: 0.493 recall: 0.566 f_score: 0.527
+loops_v2 - precision: 0.541 recall: 0.588 f_score: 0.564
+checkpoint_14_0.916 threshold:0.5
